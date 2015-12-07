@@ -1,4 +1,5 @@
 Class TagsPost < ActiveRecord::Base
-belongs_to :post
-belongs_to :tag
+  t.belongs_to :post
+  t.belongs_to :tag
+
 end

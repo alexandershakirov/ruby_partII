@@ -34,11 +34,13 @@ class CommentsController < ApplicationController
   end
   end
 
-  def destroy
+
+def destroy
     @comment.destroy
       redirect_to @comments_path
     end
-  end
+end
+
 
   private
     def set_comment
