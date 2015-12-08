@@ -1,3 +1,4 @@
 class Comment < ActiveRecord::Base
-  validates :body, presence: true
+  validates :body, :post_id, presence: true
+  belongs_to :post
 end
