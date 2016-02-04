@@ -1,0 +1,276 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tit",
+				"title"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"ma",
+				"max_space"
+			],
+			[
+				"spa",
+				"space_for_load"
+			],
+			[
+				"at",
+				"attr_accessor"
+			],
+			[
+				"train",
+				"train_number"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"tra",
+				"train"
+			],
+			[
+				"sta",
+				"station"
+			],
+			[
+				"first",
+				"first_station"
+			],
+			[
+				"stat",
+				"stations"
+			],
+			[
+				"stati",
+				"station"
+			],
+			[
+				"sat",
+				"stations"
+			],
+			[
+				"last",
+				"last_station"
+			],
+			[
+				"fi",
+				"first_station"
+			],
+			[
+				"l",
+				"last"
+			],
+			[
+				"las",
+				"last_station"
+			],
+			[
+				"firs",
+				"first_station"
+			],
+			[
+				"atr",
+				"attr_reader"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr",
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr/app",
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr/app/controllers",
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr/app/models",
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr/app/views",
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr/app/views/comments",
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr/app/views/common",
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr/app/views/posts",
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr/app/views/welcome"
+	],
+	"file_history":
+	[
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr/app/controllers/categories_controller.rb",
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr/app/controllers/application_controller.rb",
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr/app/controllers/posts_controller.rb",
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr/app/views/posts/index.html.erb",
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr/app/models/post.rb",
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr/app/views/welcome/index.html.erb",
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr/app/views/posts/_form.html.erb",
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr/app/views/comments/_form.html.erb",
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr/app/views/common/_errors.html.erb",
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr/app/controllers/welcome_controller.rb",
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr/app/views/posts/show.html.erb",
+		"/home/shakirov/Ruby/ruby_partII/copy_my_habr/app/views/comments/_comment.html.erb",
+		"/home/shakirov/Ruby/test/lesson6/cargo_wagon.rb",
+		"/home/shakirov/Ruby/test/lesson6/passenger_wagon.rb",
+		"/home/shakirov/Ruby/test/lesson12/index.html",
+		"/home/shakirov/Ruby/test/lesson6/wagons.rb",
+		"/home/shakirov/Ruby/test/lesson6/passenger_train.rb",
+		"/home/shakirov/Ruby/test/lesson6/station.rb",
+		"/home/shakirov/Ruby/test/lesson6/main.rb",
+		"/home/shakirov/Ruby/test/lesson6/route.rb",
+		"/home/shakirov/Ruby/test/lesson6/cargo_train.rb",
+		"/home/shakirov/Ruby/test/lesson5/train.rb",
+		"/home/shakirov/.ssh/id_rsa.pub",
+		"/home/shakirov/Ruby/test/lesson3/calendar.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "copy_my_harb.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
